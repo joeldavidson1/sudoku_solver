@@ -7,5 +7,4 @@ In order to solve the sudoku board, the program uses a backtracking algorithm.
 All the code is condensed into one file, this was for automation purposes during the marking process. 
 
 
-In order to improve this program further I would separate the HumanPlay and ComputerPlay classes into their own files
-. I would also add further sudoku boards and allow the user to choose which sudoku board they would like to play.
+In order to improve this program further I would separate the HumanPlay and ComputerPlay classes into their own files. I would also implement more sudoku boards and allow the user to choose which sudoku board they would like to play.
